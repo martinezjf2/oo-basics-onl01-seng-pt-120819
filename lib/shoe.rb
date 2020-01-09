@@ -12,11 +12,9 @@ class Shoe
   def cobble
     puts "Your shoe is as good as new!"
   end
-
   # binding.pry
-
 end
 
 
-new = Shoe.new
-Shoe.condition = "new"
+# new = Shoe.new
+# Shoe.condition = "new"
