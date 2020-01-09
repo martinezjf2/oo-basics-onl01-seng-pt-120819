@@ -17,6 +17,6 @@ class Shoe
 end
 
 
-# new = Shoe.new
+new = Shoe.new
 # Shoe.condition = "new"
 @condition = "new"
