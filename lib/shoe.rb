@@ -1,5 +1,5 @@
 # Make your shoe class here!
-require "pry"
+# require "pry"
 
 class Shoe
   attr_accessor :color, :size, :material
@@ -14,7 +14,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  binding.pry
+  # binding.pry
 
 end
 
