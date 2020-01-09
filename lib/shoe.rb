@@ -19,3 +19,4 @@ end
 
 # new = Shoe.new
 # Shoe.condition = "new"
+@condition = "new"
