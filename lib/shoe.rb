@@ -19,4 +19,3 @@ end
 
 cobble = Shoe.new
 cobble.new
-
